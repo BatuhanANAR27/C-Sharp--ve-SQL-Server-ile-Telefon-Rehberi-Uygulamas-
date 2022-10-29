@@ -1,0 +1,22 @@
+C:\Users\batuh\source\repos\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe.config
+C:\Users\batuh\source\repos\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe
+C:\Users\batuh\source\repos\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.pdb
+C:\Users\batuh\source\repos\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\batuh\source\repos\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Properties.Resources.resources
+C:\Users\batuh\source\repos\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.GenerateResource.cache
+C:\Users\batuh\source\repos\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\batuh\source\repos\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.exe
+C:\Users\batuh\source\repos\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.pdb
+C:\Users\batuh\source\repos\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Kullanıcı.resources
+C:\Users\batuh\source\repos\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.formTel.resources
+D:\visul studio project\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe.config
+D:\visul studio project\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe
+D:\visul studio project\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.pdb
+D:\visul studio project\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.AssemblyReference.cache
+D:\visul studio project\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.formTel.resources
+D:\visul studio project\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Kullanıcı.resources
+D:\visul studio project\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Properties.Resources.resources
+D:\visul studio project\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.GenerateResource.cache
+D:\visul studio project\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.CoreCompileInputs.cache
+D:\visul studio project\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.exe
+D:\visul studio project\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.pdb
